@@ -1,0 +1,6 @@
+[submodule "nnf"]
+	path = nnf
+	url = git@github.com:duytai/nnf.git
+[submodule "verifier"]
+	path = verifier
+	url = git@github.com:duytai/verifier.git
