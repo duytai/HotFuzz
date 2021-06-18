@@ -21,6 +21,8 @@ Fuzzing `helloworld` binary file
 python3 nnf/nnf.py helloworld.ini
 ```
 
+Fuzzing's output is saved to `programs/helloworld`
+
 To fuzz new rust project
 + Instrumentation
 + Creating an `.ini` file which is similar to `helloword.ini`
