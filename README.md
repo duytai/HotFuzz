@@ -27,3 +27,7 @@ To fuzz new rust project
 + Instrumentation
 + Creating an `.ini` file which is similar to `helloword.ini`
 + Fuzzing: `python3 nnf/nnf.py [your ini file]`
+
+**Note**: 
+
+Input files must have following format: id:000000,orig:<file_name> (e.g., id:000000,orig:jpeg-quality-10.jpg)
