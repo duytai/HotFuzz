@@ -1,4 +1,4 @@
-build dependencies
+# build dependencies
 (cd verifier && make)
 (cd nnf && pip3 install -r requirements.txt)
 
